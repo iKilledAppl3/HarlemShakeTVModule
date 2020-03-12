@@ -48,7 +48,7 @@
     animating = NO;
     harlemShake = nil;
 
-    // We call this so the control center can dismiss after the whole thing finsihes animating
+    // We call this so the control center can dismiss after the whole thing finishes animating
     TVSMSystemMenuManager *controlCenterMan = [NSClassFromString(@"TVSMSystemMenuManager") sharedInstance];
     [controlCenterMan dismissSystemMenu];
 
