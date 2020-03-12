@@ -1,0 +1,11 @@
+Package: com.ikilledappl3.harlemshaketv
+Name: HarlemShakeTV (Module)
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.ikilledappl3.harlemshaketvtweak, firmware (>=13.0)
+Architecture: appletvos-arm64
+Description: Party like it's 2012! Harlem Shake for tvOS!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/HarlemShakeTVModule.json
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 560
